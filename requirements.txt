@@ -1,4 +1,6 @@
 streamlit
-pandas-ta
 yfinance
 pandas
+pandas-ta --no-deps
+numpy
+
